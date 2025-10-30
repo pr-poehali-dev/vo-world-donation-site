@@ -147,7 +147,7 @@ export default function Index() {
                       <Icon name="Users" className="text-primary" size={24} />
                     </div>
                     <div>
-                      <CardTitle className="text-3xl font-black">1,247</CardTitle>
+                      <CardTitle className="text-3xl font-black">0</CardTitle>
                       <CardDescription>Игроков онлайн</CardDescription>
                     </div>
                   </div>
